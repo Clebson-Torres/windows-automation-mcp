@@ -1,0 +1,11 @@
+{
+  "name": "windows-automation-mcp",
+  "version": "0.0.1",
+  "schema": "v1",
+  "mcpServers": {
+    "local": {
+      "command": "python",
+      "args": ["windows_automation_mcp.py"]
+    }
+  }
+}
